@@ -1,7 +1,5 @@
 # FingerprintiPy
 
-## Purpose
-
 A Python tool to fingerprint atoms in molecules, with the purpose of identifying specific atoms within a larger structure.
 
 ## Requirements
